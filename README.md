@@ -1,7 +1,5 @@
 <div align="center">
-  <img src="./assets/profile_circle.png" width="160" height="160" style="border-radius: 50%; border: 4px solid #333;" />
-  <br/><br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,18&height=250&section=header&text=Nawaraj%20Karki&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=MERN%20Stack%20%7C%20Full%20Stack%20%7C%20Product%20Builder&descAlignY=55&descSize=20" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,18&height=250&section=header&text=Nawaraj%20Karki&fontSize=70&fontAlignY=40&animation=twinkling&fontColor=ffffff" width="100%"/>
 
   <br/>
   <a href="https://github.com/Nawarajkarki30">
@@ -9,6 +7,9 @@
   </a>
   
   <p>
+    <a href="mailto:nawarajkarki803@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
     <a href="https://www.linkedin.com/in/nawaraj-karki-a21b8933a">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
@@ -45,6 +46,18 @@ I'm a **MERN Stack Developer** passionate about building modern, scalable, and u
 
 ---
 
+### 📂 Featured Projects
+
+| Project Name | Description | Tech Stack | Link |
+| :--- | :--- | :--- | :--- |
+| **[MindX Technology](#)** | Modern landing page and services platform for a tech agency. | React, TailwindCSS, Vite | [Live Demo](#) / [Repo](#) |
+| **[Project Two Name](#)** | A brief 1-2 sentence description of what the project does and the problem it solves. | Next.js, MongoDB, Node.js | [Live Demo](#) / [Repo](#) |
+| **[Project Three Name](#)** | A brief 1-2 sentence description of what the project does and the problem it solves. | React, Express, MySQL | [Live Demo](#) / [Repo](#) |
+
+*(Note: Replace the `#` links and project details with your actual projects!)*
+
+---
+
 ### 📊 GitHub Analytics
 
 <div align="center">
@@ -61,14 +74,6 @@ I'm a **MERN Stack Developer** passionate about building modern, scalable, and u
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nawarajkarki30&theme=tokyo-night&bg_color=0D1117&hide_border=true" alt="Activity Graph" />
 </div>
-
----
-
-### 🛠 What I Build
-- 🚀 **Full Stack Web Applications**
-- ⚡ **REST APIs & Backend Services**
-- 🎨 **Modern Responsive Interfaces**
-- 🤖 **AI Integrated Applications**
 
 ---
 

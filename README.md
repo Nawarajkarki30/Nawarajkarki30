@@ -1,4 +1,6 @@
 <div align="center">
+  <img src="./assets/profile.png" width="160" height="160" style="border-radius: 50%; border: 4px solid #333; object-fit: cover;" />
+  <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,18&height=250&section=header&text=Nawaraj%20Karki&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=MERN%20Stack%20%7C%20Full%20Stack%20%7C%20Product%20Builder&descAlignY=55&descSize=20" width="100%"/>
 
   <br/>
@@ -46,8 +48,8 @@ I'm a **MERN Stack Developer** passionate about building modern, scalable, and u
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nawarajkarki30&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nawarajkarki30&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Nawarajkarki30&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Nawarajkarki30&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
   <br/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nawarajkarki30&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
@@ -58,13 +60,6 @@ I'm a **MERN Stack Developer** passionate about building modern, scalable, and u
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nawarajkarki30&theme=tokyo-night&bg_color=0D1117&hide_border=true" alt="Activity Graph" />
-</div>
-
----
-
-<div align="center">
-  <h3>🏆 GitHub Trophies</h3>
-  <img src="https://github-profile-trophy.vercel.app/?username=Nawarajkarki30&theme=tokyonight&margin-w=15" alt="Trophies" />
 </div>
 
 ---

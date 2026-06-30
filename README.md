@@ -1,224 +1,88 @@
-<!-- Profile Image -->
-
-<p align="center">
-  <img src="./assets/profile.png" width="180" style="border-radius:50%;" />
-</p>
-
-
-<h1 align="center">
-  Hi 👋, I'm Nawaraj Karki
-</h1>
-
-<h3 align="center">
-  MERN Stack Developer | Full Stack Developer | Product Builder
-</h3>
-
-<p align="center">
-  📍 Itahari, Sunsari, Nepal
-</p>
-
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/nawaraj-karki-a21b8933a">
-    LinkedIn
-  </a>
-  •
+<div align="center">
+  <img src="./assets/profile.png" width="150" style="border-radius:50%; border: 4px solid #333;" />
+  <br/>
+  <h1>Hi 👋, I'm Nawaraj Karki</h1>
+  
   <a href="https://github.com/Nawarajkarki30">
-    GitHub
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer;Full+Stack+Developer;Product+Builder;Open+Source+Enthusiast" alt="Typing SVG" />
   </a>
-</p>
-
-
----
-
-# 🚀 About Me
-
-I'm a **MERN Stack Developer** passionate about building modern, scalable, and user-focused web applications.
-
-I enjoy turning ideas into real digital products by combining:
-
-- Clean frontend experiences
-- Reliable backend systems
-- Scalable database architecture
-- Modern development practices
-
-
-Currently focused on:
-
-- Full Stack Web Development
-- Backend Architecture
-- REST API Development
-- SaaS & Product Development
-- AI-powered applications
-
+  
+  <p>
+    📍 Itahari, Sunsari, Nepal &nbsp;&nbsp;|&nbsp;&nbsp; 
+    <a href="https://www.linkedin.com/in/nawaraj-karki-a21b8933a">LinkedIn</a>
+  </p>
+</div>
 
 ---
 
-# 💻 Tech Stack
+### 🚀 About Me
+I'm a **MERN Stack Developer** passionate about building modern, scalable, and user-focused web applications. I enjoy turning ideas into real digital products by combining clean frontend experiences with robust backend systems.
 
-
-## Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,javascript,typescript,html,css,tailwind" />
-</p>
-
-
-## Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-
-## Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
-
-
-## Tools & Technologies
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux" />
-</p>
-
+- 🔭 Currently focused on: **Full Stack Web Development, REST APIs, & SaaS Products**
+- 🌱 Currently learning: **Advanced React patterns, System Design, & AI Integration**
+- 💬 Ask me about: **React, Node.js, Express, MongoDB, & TailwindCSS**
 
 ---
 
-# 🛠 What I Build
+### 💻 Tech Stack
 
-
-🚀 Full Stack Web Applications
-
-⚡ REST APIs & Backend Services
-
-🎨 Modern Responsive Interfaces
-
-🔐 Authentication & Secure Systems
-
-📊 Business Management Platforms
-
-🤖 AI Integrated Applications
-
+<div align="center">
+  <h4>Frontend</h4>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,javascript,typescript,html,css,tailwind" />
+  <br/>
+  <h4>Backend & Database</h4>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+  <br/>
+  <h4>Tools & Technologies</h4>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux" />
+</div>
 
 ---
 
-# 🧠 Development Philosophy
+### 📊 GitHub Analytics
 
+<div align="center">
+  <table>
+    <tr>
+      <td valign="top" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=Nawarajkarki30&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+      </td>
+      <td valign="top" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nawarajkarki30&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
 
-```
-Idea
- ↓
-Planning
- ↓
-Architecture
- ↓
-Development
- ↓
-Testing
- ↓
-Product
-```
-
-
-I believe good software is not only about writing code.
-
-It is about solving real problems with simple, reliable, and scalable solutions.
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nawarajkarki30&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</div>
 
 ---
 
-# 🚀 Projects
+### 🔥 Contribution Graph
 
-
-Some of my major projects are currently private because they are part of product development and ongoing work.
-
-My focus areas include:
-
-- AI based applications
-- SaaS platforms
-- Business solutions
-- Modern web products
-
-
-Public projects and experiments are available through my repositories.
-
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nawarajkarki30&theme=tokyo-night&bg_color=0D1117&hide_border=true" alt="Activity Graph" />
+</div>
 
 ---
 
-# 🌱 Currently Learning
-
-
-- Advanced React patterns
-- Backend scalability
-- System design
-- Cloud technologies
-- AI integration
-
+<div align="center">
+  <h3>🏆 GitHub Trophies</h3>
+  <img src="https://github-profile-trophy.vercel.app/?username=Nawarajkarki30&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+</div>
 
 ---
 
-# 📊 GitHub Stats
-
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Nawarajkarki30&show_icons=true&theme=transparent" />
-
-</p>
-
+### 🛠 What I Build
+- 🚀 **Full Stack Web Applications**
+- ⚡ **REST APIs & Backend Services**
+- 🎨 **Modern Responsive Interfaces**
+- 🤖 **AI Integrated Applications**
 
 ---
 
-# 🔥 GitHub Activity
-
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nawarajkarki30&theme=github" />
-
-</p>
-
-
----
-
-# 🤝 Connect With Me
-
-
-<p>
-
-💼 LinkedIn:
-
-<a href="https://www.linkedin.com/in/nawaraj-karki-a21b8933a">
-Nawaraj Karki
-</a>
-
-
-<br>
-
-💻 GitHub:
-
-<a href="https://github.com/Nawarajkarki30">
-Nawarajkarki30
-</a>
-
-</p>
-
-
----
-
-# ⚡ Fun Fact
-
-I enjoy building products, learning new technologies,
-and continuously improving as a developer.
-
-
----
-
-<p align="center">
-
-⭐ Building • Learning • Creating
-
-</p>
+<div align="center">
+  <i>⭐ Building • Learning • Creating ⭐</i>
+  <br/><br/>
+  <img src="https://profile-counter.glitch.me/Nawarajkarki30/count.svg" alt="Profile Views"/>
+</div>

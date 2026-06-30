@@ -51,7 +51,7 @@ I'm a **MERN Stack Developer** passionate about building modern, scalable, and u
 | Project Name | Description | Tech Stack | Link |
 | :--- | :--- | :--- | :--- |
 | **[MindX Technology](#)** | Modern landing page and services platform for a tech agency. | React, TailwindCSS, Vite | [Live Demo](#) / [Repo](#) |
-| **[Project Two Name](#)** | A brief 1-2 sentence description of what the project does and the problem it solves. | Next.js, MongoDB, Node.js | [Live Demo](#) / [Repo](#) |
+| **[Yatramind](https://yatramind.app)** | A comprehensive travel and booking platform. | MERN Stack | [Live Demo](https://yatramind.app) / [Repo](#) |
 | **[Project Three Name](#)** | A brief 1-2 sentence description of what the project does and the problem it solves. | React, Express, MySQL | [Live Demo](#) / [Repo](#) |
 
 *(Note: Replace the `#` links and project details with your actual projects!)*

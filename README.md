@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Nawarajkarki30.png" width="160" height="160" style="border-radius: 50%; border: 4px solid #333;" />
+  <img src="./assets/profile_circle.png" width="160" height="160" style="border-radius: 50%; border: 4px solid #333;" />
   <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,18&height=250&section=header&text=Nawaraj%20Karki&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=MERN%20Stack%20%7C%20Full%20Stack%20%7C%20Product%20Builder&descAlignY=55&descSize=20" width="100%"/>
 
